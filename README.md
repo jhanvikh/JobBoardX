@@ -20,7 +20,7 @@ This project scrapes job listings from LinkedIn using Selenium and creates an in
 - **Python 3**  
 - **Selenium** – Automated scraping  
 - **Pandas** – Data handling  
-- **Streamlit / Dash / Power BI** – Dashboard
+- **Power BI** – Dashboard
 
 
 
